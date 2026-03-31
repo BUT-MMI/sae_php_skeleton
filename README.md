@@ -1,2 +1,3 @@
-# sae_php_skeleton
-Squelette du projet SAE203, fourni par les profs
+# Projet SAÉ 203
+
+Squelette du site web dynamique à faire pour la SAÉ 203.
